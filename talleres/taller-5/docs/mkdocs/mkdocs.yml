@@ -1,5 +1,0 @@
-site_name: Documentación de Calculadora
-nav:
-  - Inicio: index.md
-  - Instrucciones de uso: uso.md
-  - Funciones: funciones.md

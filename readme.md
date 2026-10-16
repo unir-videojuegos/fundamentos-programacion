@@ -1,4 +1,4 @@
-# Repositorio de la Asignatura "Fundamentos de Programación" - Curso 2025-2026
+# Repositorio de la Asignatura "Fundamentos de Programación" - Curso 2026-2027
 
 ## Aclaración
 
@@ -30,28 +30,5 @@ A continuación se listan los enlaces a los directorios de cada tema (es importa
 
 ### Talleres
 
-### Curso 2024 - 2025
-
-* [Taller 1: Sentencias de control y control de entrada y salida de datos](talleres/taller-1)
-
-* [Taller 2: Juego del Busca Minas](talleres/taller-2)
-
-* [Taller 3: Juego de Adivina Palabra](talleres/taller-3)
-
-* [Taller 4 (Tipo examen): Juego de Dados entre Dos Jugadores](talleres/taller-4)
-
-* [Taller 5: Documentar Nuestros Juegos](talleres/taller-5)
-
-* [Taller 6 (Tipo examen): Adivina el Número Mayor o Menor](talleres/taller-6)
-
-* [Taller 7 (Tipo examen): Adivina la Capital](talleres/taller-7)
-
-* [Taller 8 (Tipo examen): Juego de Registro de Puntos de una Partida de Bolos](talleres/taller-8)
-
-### Curso 2025 - 2026
-
-* [Taller 9 (Tipo examen): Juego Defensa del Castillo](talleres/taller-9/)
-
-* [Taller 10 (Tipo examen): Juego Exploración Espacial](talleres/taller-10/)
-
-* [Taller 11 (Tipo examen): Juego Gestión del Refugio](talleres/taller-11/)
+> [!NOTE]
+> Esta sección se irá actualizando a lo largo del curso.
