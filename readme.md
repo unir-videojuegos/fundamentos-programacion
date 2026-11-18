@@ -12,6 +12,8 @@ A continuación se listan los enlaces a los directorios de cada tema (es importa
 
 ### Temas vistos en Clase
 
+* [Pre-requisitos: Guías para la instalación de herramientas](temas/tema-0/)
+
 * [Tema 1: Introducción y Algoritmos](temas/tema-1)
 
 * [Tema 2: Elementos Básicos de un Programa](temas/tema-2)

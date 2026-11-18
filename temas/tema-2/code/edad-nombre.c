@@ -13,7 +13,7 @@ int main() {
 
   // 2. Preguntar la edad
   printf("Por favor, escribe tu edad: ");
-  scanf("%d", &edad);
+  scanf(" %d", &edad);
 
   // 2.1 Imprime el nombre
   printf("Hola, %s. ", nombre);

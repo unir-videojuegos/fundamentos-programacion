@@ -1,4 +1,4 @@
-// Directrices del procesador
+// Directrices del procesador o librerías necesarias
 #include <stdio.h>
 
 // Función principal
